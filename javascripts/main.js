@@ -1,1 +1,3 @@
-console.log('I am linked');
+import {bookCardBuilder} from './components/store.js';
+
+bookCardBuilder();
