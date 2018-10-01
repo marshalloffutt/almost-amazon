@@ -18,4 +18,4 @@ hs -p 9999
 ```
 localhost: 9999
 ```
-* Click the 'Add to cart'
+* Click the 'Add to cart' button
