@@ -1,6 +1,5 @@
-import {bookCardBuilder} from './components/store.js';
-import {addToCartButtonEvent} from './components/cart.js';
+import {addToCart} from './components/cart.js';
+import {addToCartButtonEvent} from './components/store.js';
 
-
-bookCardBuilder();
 addToCartButtonEvent();
+addToCart();
