@@ -1,3 +1,23 @@
 body {
     background-color: #F26419;
+    align-content: center;
+    text-align: center;
+    color: #2F4858;
+}
+
+.card {
+    border-color: transparent;
+    margin: 0;
+}
+
+.card-body {
+    color: #2f4858;
+}
+
+#addToCartBtn {
+    background-color: #33658a;
+}
+
+.container {
+    padding-top: 40px;
 }
