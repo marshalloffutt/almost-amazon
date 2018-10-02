@@ -9,6 +9,10 @@ price: "$11.99"
 }
 ];
 
+const getPrice = () => {
+    return book[0].price;
+};
+
 const addToCartButton = document.getElementById('addToCartBtn');
 
 addToCartButton.addEventListener('click', function (e) {
@@ -19,4 +23,4 @@ const addToCartButtonEvent = () => {
 addToCart();
 }
 
-export {book}
+export { getPrice }
