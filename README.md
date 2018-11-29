@@ -1,6 +1,6 @@
 # Almost Amazon
 
-One stop shop for all of your One Hundred Years of Solitude needs!
+This app is a faux-bookstore that sells only one book, which just happens to be the best book ever written. The app makes use of event listeners as well as ES6 modules, vanilla JavaScript, and Bootstrap. The purpose was to show how an actual e-seller can avoid nefarious users from tampering with costs of items.
 
 ## Screenshots
 ![main screen shot](./screenshots/pic.png)
@@ -18,4 +18,3 @@ hs -p 9999
 ```
 localhost: 9999
 ```
-* Click the 'Add to cart' button
